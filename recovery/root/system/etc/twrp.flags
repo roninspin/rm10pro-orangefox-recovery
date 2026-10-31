@@ -15,3 +15,4 @@
 /vbmeta         emmc  /dev/block/bootdevice/by-name/vbmeta         flags=display="VBMeta";backup=1;flashimg=1;slotselect
 /vbmeta_system  emmc  /dev/block/bootdevice/by-name/vbmeta_system  flags=display="VBMeta System";backup=1;flashimg=1;slotselect
 /recovery       emmc  /dev/block/bootdevice/by-name/recovery       flags=display="recovery";backup=1;flashimg;slotselect
+/splash         emmc  /dev/block/bootdevice/by-name/splash         flags=display="splash";backup=1;flashimg;slotselect
